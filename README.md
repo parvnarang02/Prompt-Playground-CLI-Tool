@@ -27,6 +27,7 @@ Example Test Prompts:
 
 ![image](https://github.com/user-attachments/assets/59a321ec-7f7a-4ed5-8c31-5bb5ed5b7969)
 
+![image](https://github.com/user-attachments/assets/3502d8a7-bc20-4b93-9975-322f1b2bdfa8)
 
 ![image](https://github.com/user-attachments/assets/9c8ce7a1-15c0-4994-8529-0f05704feef1)
 

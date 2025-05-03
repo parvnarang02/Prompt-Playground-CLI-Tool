@@ -16,7 +16,8 @@ Instructions:
  
  ->Choose a model
 
- ![image](https://github.com/user-attachments/assets/4b684e28-3ca1-4035-a20f-35030bdb0b2d)
+![image](https://github.com/user-attachments/assets/ab9098a1-fe28-466b-b0ca-f34b295928a9)
+
 
 Example Test Prompts:
 

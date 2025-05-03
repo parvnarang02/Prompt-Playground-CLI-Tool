@@ -20,9 +20,15 @@ Instructions:
 
 Example Test Prompts:
 
-![image](https://github.com/user-attachments/assets/6570eea3-2028-42a6-8bec-5bd0c14f37b9)
+![image](https://github.com/user-attachments/assets/11c8b918-f3f5-45cd-ae45-974376bee060)
+
 
 ![image](https://github.com/user-attachments/assets/59a321ec-7f7a-4ed5-8c31-5bb5ed5b7969)
 
-![image](https://github.com/user-attachments/assets/3a0d061a-cfa8-4f3a-ba2f-7c7f50d52bf6)
+
+![image](https://github.com/user-attachments/assets/9c8ce7a1-15c0-4994-8529-0f05704feef1)
+
+
+
+
 
